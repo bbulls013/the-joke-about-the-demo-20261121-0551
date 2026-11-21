@@ -1,8 +1,8 @@
 # The Joke About the Demo
 
-[![Competition](https://img.shields.io/badge/make.fun-competition-blue)](https://make.fun/c/the-joke-about-the-demo-20261121-0551)
-[![Rank](https://img.shields.io/badge/make.fun-rank-green)](https://make.fun/c/the-joke-about-the-demo-20261121-0551)
-[![Reward](https://img.shields.io/badge/make.fun-reward-orange)](https://make.fun/c/the-joke-about-the-demo-20261121-0551)
+[![make.fun · the-joke-about-the-demo-20261121-0551](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/bbulls013/the-joke-about-the-demo-20261121-0551/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/bbulls013/the-joke-about-the-demo-20261121-0551/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261121-0551)
 
 A tiny deterministic program that writes a single original one-line joke about working beside AI coding agents on demo day — the moment the agent that wrote everything crashes live and helpfully offers to generate a working version instead.
 
